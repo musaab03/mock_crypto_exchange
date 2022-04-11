@@ -1,0 +1,14 @@
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\bin\Debug\SchoolBank.exe.config
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\bin\Debug\SchoolBank.exe
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\bin\Debug\SchoolBank.pdb
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\CryptoExchange.csprojAssemblyReference.cache
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\Interop.ADOX.dll
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\CryptoExchange.csproj.ResolveComReference.cache
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\SchoolBank.Properties.Resources.resources
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\CryptoExchange.csproj.GenerateResource.cache
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\SchoolBank.exe
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\SchoolBank.pdb
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\SchoolBank.FmMenu.resources
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\SchoolBank.FmWallet.resources
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\SchoolBank.FmBitcoin.resources
+E:\Desktop\My Folder\School Stuff\College\CS\NEA\CryptoExchange\SchoolBank\obj\Debug\SchoolBank.FmSettings.resources

@@ -1,0 +1,44 @@
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csprojAssemblyReference.cache
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\Interop.ADOX.dll
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.ResolveComReference.cache
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmMenu.resources
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.Properties.Resources.resources
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.GenerateResource.cache
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.CoreCompileInputs.cache
+H:\Documents\Computer Science\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe.config
+H:\Documents\Computer Science\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe
+H:\Documents\Computer Science\SchoolBank\SchoolBank\bin\Debug\SchoolBank.pdb
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmAccounts.resources
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.exe
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.pdb
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe.config
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\bin\Debug\SchoolBank.pdb
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csprojAssemblyReference.cache
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\Interop.ADOX.dll
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.ResolveComReference.cache
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmAccounts.resources
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmMenu.resources
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.Properties.Resources.resources
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.GenerateResource.cache
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.CoreCompileInputs.cache
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.exe
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.pdb
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmTransactions.resources
+\\student2019\home\sy193098\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmStatistics.resources
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmStatistics.resources
+H:\Documents\Computer Science\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmTransactions.resources
+E:\Desktop\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe.config
+E:\Desktop\SchoolBank\SchoolBank\bin\Debug\SchoolBank.exe
+E:\Desktop\SchoolBank\SchoolBank\bin\Debug\SchoolBank.pdb
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csprojAssemblyReference.cache
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\Interop.ADOX.dll
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.ResolveComReference.cache
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmAccounts.resources
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmMenu.resources
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmStatistics.resources
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.FmTransactions.resources
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.Properties.Resources.resources
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.csproj.GenerateResource.cache
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.exe
+E:\Desktop\SchoolBank\SchoolBank\obj\Debug\SchoolBank.pdb
